@@ -130,7 +130,7 @@ body {
     }
 
     .cabecalho__menu{
-        justify-content: center;    
+        justify-content: space-evenly;    
         gap: 5px;    
     }
     
